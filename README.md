@@ -13,6 +13,7 @@ Um projeto que consiste na administração e uso de temporizadores e LEDs para f
 ## 🛠️ **Tecnologias Utilizadas**
 
 - **Linguagem de Programação:** C / CMake
+- **Simulador Virtual Wowki**
 - **Placas Microcontroladoras:**
   - BitDogLab
   - Pico W
